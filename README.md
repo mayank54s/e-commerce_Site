@@ -7,3 +7,7 @@ Tools that will be need to View and Modify this project (For Windows, MacOS and 
 <li>WAMP - It is an easy to install Apache distribution containing MariaDB, PHP, and Perl. <a href="http://www.wampserver.com">Click here  to dewnload WAMP</a></li>
 <b>XAMPP Can also be used for this</b>
   </ul>
+<ul>
+  <li> Branch master has the code with HTML, CSS and Bootstrap.</li>
+  <li> Branch PHP has the PHP code for different pages of this site.</li>
+  </ul>
